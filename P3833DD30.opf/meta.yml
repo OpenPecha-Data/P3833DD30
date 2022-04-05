@@ -1,0 +1,33 @@
+id: P3833DD30
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA4CZ1260
+  instance_id: http://purl.bdrc.io/resource/IE7479
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - འཇིགས་མེད་གླིང་པའི་རྣམ་ཐར།
+  alt_title:
+    en-x-mixed:
+    - ʼJigs-med-gliṅ-paʼi rnam thar /ʼJigs-med-gliṅ-pas mdzad.
+    zh-latn-wadegile:
+    - chi mei ling pa chuan
+  author: http://purl.bdrc.io/resource/P293
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    c4781f466bb34fcf83b7993ffe535972:
+      title: པོད ༡་འཇིགས་མེད་གླིང་པའི་རྣམ་ཐར
+      volume_number: 1
+      base_file: UT7479_4260_0000.txt
+      reference: http://purl.bdrc.io/resource/VLE7A6A5F80D1B9BC7
+      image_group: '4260'
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW7479
+  - http://purl.bdrc.io/resource/W7479
+  ocr_software: Namsel
+created_at: '2021-12-31T08:27:09.818846'
+last_modified_at: '2021-12-31T08:27:09.818853'

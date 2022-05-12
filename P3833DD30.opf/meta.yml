@@ -31,3 +31,8 @@ source_metadata:
   ocr_software: Namsel
 created_at: '2021-12-31T08:27:09.818846'
 last_modified_at: '2021-12-31T08:27:09.818853'
+statistics:
+  total_words: 146757
+  total_non_words: 18230
+quality:
+  non_words_ratio: 0.12
